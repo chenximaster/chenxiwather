@@ -1,0 +1,9 @@
+<litepai>
+    <dbname value="chenxi_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="android.chenxiweather.com.chenxiweather.db.Province"/>
+        <mapping class="android.chenxiweather.com.chenxiweather.db.City"/>
+        <mapping class="android.chenxiweather.com.chenxiweather.db.County"/>
+    </list>
+</litepai>
